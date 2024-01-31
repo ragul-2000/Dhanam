@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/dhanam/static/css/main.4add1772.css",
-    "main.js": "/dhanam/static/js/main.94f0c28c.js",
-    "static/media/big5.jpg": "/dhanam/static/media/big5.b957b7de0479157b505d.jpg",
-    "static/media/big3.jpg": "/dhanam/static/media/big3.3ad6728906c05d61ad6e.jpg",
-    "static/media/frutang.jpg": "/dhanam/static/media/frutang.e4ada40a5afcdabac150.jpg",
-    "static/media/big1.webp": "/dhanam/static/media/big1.580f53f1e87503b16a3a.webp",
-    "static/media/big4.jpg": "/dhanam/static/media/big4.57d87b43226df1c1a37d.jpg",
-    "static/media/big2.jpg": "/dhanam/static/media/big2.039937992497d1a1be15.jpg",
-    "static/media/bovonto300,500.jpg": "/dhanam/static/media/bovonto300,500.1bed1f00bc8079c87e5b.jpg",
-    "static/media/vibro.webp": "/dhanam/static/media/vibro.984aa441bda512644bcb.webp",
-    "static/media/campacola.jpg": "/dhanam/static/media/campacola.0db313e215f2a5da73a2.jpg",
-    "static/media/soda750ml.jpg": "/dhanam/static/media/soda750ml.e8934a76b3128b97a04f.jpg",
-    "static/media/about.jpg": "/dhanam/static/media/about.bd5c4268ad6ad26bad46.jpg",
-    "static/media/bovonto1.5.webp": "/dhanam/static/media/bovonto1.5.fefbffc240e8501196d9.webp",
-    "static/media/campa-cola-lemon-200ml-24pc-1692251319319-250x250.webp": "/dhanam/static/media/campa-cola-lemon-200ml-24pc-1692251319319-250x250.99ad12c2be5d158e45f9.webp",
-    "static/media/campa orange.avif": "/dhanam/static/media/campa orange.711767583e0b1ddfc4b4.avif",
-    "static/media/kalimark-club-soda300ml.webp": "/dhanam/static/media/kalimark-club-soda300ml.3c8ecef6b0eb8892ca2d.webp",
-    "index.html": "/dhanam/index.html",
-    "main.4add1772.css.map": "/dhanam/static/css/main.4add1772.css.map",
-    "main.94f0c28c.js.map": "/dhanam/static/js/main.94f0c28c.js.map"
+    "main.css": "/dhanam/home/static/css/main.b53972b8.css",
+    "main.js": "/dhanam/home/static/js/main.c705291b.js",
+    "static/media/big5.jpg": "/dhanam/home/static/media/big5.b957b7de0479157b505d.jpg",
+    "static/media/big3.jpg": "/dhanam/home/static/media/big3.3ad6728906c05d61ad6e.jpg",
+    "static/media/frutang.jpg": "/dhanam/home/static/media/frutang.e4ada40a5afcdabac150.jpg",
+    "static/media/big1.webp": "/dhanam/home/static/media/big1.580f53f1e87503b16a3a.webp",
+    "static/media/big4.jpg": "/dhanam/home/static/media/big4.57d87b43226df1c1a37d.jpg",
+    "static/media/big2.jpg": "/dhanam/home/static/media/big2.039937992497d1a1be15.jpg",
+    "static/media/bovonto300,500.jpg": "/dhanam/home/static/media/bovonto300,500.1bed1f00bc8079c87e5b.jpg",
+    "static/media/vibro.webp": "/dhanam/home/static/media/vibro.984aa441bda512644bcb.webp",
+    "static/media/campacola.jpg": "/dhanam/home/static/media/campacola.0db313e215f2a5da73a2.jpg",
+    "static/media/soda750ml.jpg": "/dhanam/home/static/media/soda750ml.e8934a76b3128b97a04f.jpg",
+    "static/media/about.jpg": "/dhanam/home/static/media/about.bd5c4268ad6ad26bad46.jpg",
+    "static/media/bovonto1.5.webp": "/dhanam/home/static/media/bovonto1.5.fefbffc240e8501196d9.webp",
+    "static/media/campa-cola-lemon-200ml-24pc-1692251319319-250x250.webp": "/dhanam/home/static/media/campa-cola-lemon-200ml-24pc-1692251319319-250x250.99ad12c2be5d158e45f9.webp",
+    "static/media/campa orange.avif": "/dhanam/home/static/media/campa orange.711767583e0b1ddfc4b4.avif",
+    "static/media/kalimark-club-soda300ml.webp": "/dhanam/home/static/media/kalimark-club-soda300ml.3c8ecef6b0eb8892ca2d.webp",
+    "index.html": "/dhanam/home/index.html",
+    "main.b53972b8.css.map": "/dhanam/home/static/css/main.b53972b8.css.map",
+    "main.c705291b.js.map": "/dhanam/home/static/js/main.c705291b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4add1772.css",
-    "static/js/main.94f0c28c.js"
+    "static/css/main.b53972b8.css",
+    "static/js/main.c705291b.js"
   ]
 }
