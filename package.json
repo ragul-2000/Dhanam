@@ -2,7 +2,7 @@
   "name": "dhanam",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ragul-2000.github.io/dhanam",
+  "homepage": "http://ragul-2000.github.io/dhanam/home",
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
     "@emotion/react": "^11.11.3",
