@@ -1,0 +1,112 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: -moz-linear-gradient(0deg, rgb(134, 145, 155) 1%, rgba(0,52,65,1) 100%, rgba(26,94,151,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(190,202,213,1) 1%, rgba(0,52,65,1) 100%, rgba(26,94,151,1) 100%);
+    background: linear-gradient(0deg, rgb(24, 44, 62) 1%, rgb(3, 104, 147) 100%, rgba(26,94,151,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#becad5",endColorstr="#1a5e97",GradientType=1);
+    
+height: 20vh;
+width: 100%;
+}
+
+.n-center{
+    display: flex;
+    flex: 5;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.n-center h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(206, 197, 197);
+    margin-left: 400px;
+
+}
+
+.n-center h2{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(206, 197, 197);
+    text-align: right;
+    margin-top: 10px;
+    margin-left: 400px;
+    font-style: italic;
+
+}
+
+.n-right{
+    display: flex;
+    justify-content: center;
+    flex: 2;
+    gap: 20px;
+    margin-top: 90px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.link{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.link:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(23, 22, 22);
+}
+
+@media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      height: auto;
+      padding: 20px;
+    }
+  
+    .n-center {
+      flex: auto;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+  
+    .n-center h1 {
+      margin-left: 0;
+    }
+  
+    .n-center h2 {
+      margin-left: 0;
+    }
+  
+    .n-right {
+      flex: auto;
+      margin-top: 0;
+      justify-content: center;
+    }
+  }
+  
+  /* Media query for mobile view */
+  @media (max-width: 480px) {
+    .n-center h1 {
+      font-size: 30px;
+      font-weight: 800;
+      margin-left: 0;
+    }
+  
+    .n-center h2 {
+      font-size: 15px;
+      margin-left: 0;
+    }
+  
+    .n-right {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+  }
+  

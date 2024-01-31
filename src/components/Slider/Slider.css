@@ -1,0 +1,59 @@
+.arrow{
+    background: rgb(178,186,193);
+    background: linear-gradient(0deg, rgba(178,186,193,1) 0%, rgba(142,169,188,1) 100%, rgba(228,216,216,1) 100%);
+    padding: 5px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.dots:hover{
+    scale: 2;
+
+}
+
+@media (max-width: 480px) {
+
+    .slider{
+        position: relative;
+        width: 90%;
+       height: 100%;
+       margin: 0 auto;
+
+        
+    }
+    .arrow {
+      width: 20px;
+    }
+  
+    .left-arrow{
+        position:absolute;
+        margin-left: 140px;
+    }
+  
+    .right-arrow {
+      margin-right: 140px;
+    }
+  
+    .dots {
+      font-size: 16px;
+    }
+  
+    .slider {
+      height: 100%;
+    }
+  
+   
+  
+    .arrow-container {
+      top: 40%;
+    }
+  
+    .dots-container {
+      bottom: 5px;
+    }
+  }
